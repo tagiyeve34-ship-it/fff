@@ -1,0 +1,46 @@
+NEZARET V4 — TƏSDİQLƏNMİŞ EKRAN SPESİFİKASİYASI
+
+1) DASHBOARD
+- Ağ/light premium fon, bənövşəyi aksent.
+- Nezaret V4 başlığı + bildiriş ikonu.
+- Uşaq profil kartı: ad, online status, son yenilənmə.
+- Yerləşmə kartı.
+- Bu gün: gələn zəng sayı/müddəti və cari batareya.
+- Zənglərin analizi: Gələn / Gedən / Qaçırılan donut qrafiki.
+- Batareya analizi: gün ərzində batareya xətti.
+- Wi‑Fi/LTE kimi serverdə olmayan məlumat göstərilmir.
+
+2) XƏRİTƏ
+- Header yoxdur; xəritə ekranı maksimum sahəni tutur.
+- Sol yuxarı xəritə/layer düyməsi, sağ yuxarı fokus düyməsi.
+- Bugünkü GPS marşrutu bənövşəyi xəttlə.
+- Cari mövqe marker.
+- Aşağıda draggable bottom sheet; bağlı halda az yer tutur.
+- Panel açıldıqda profil, koordinat, batareya, dəqiqlik, Yenilə, Marşrut, Tarixçə, Paylaş və gün xülasəsi.
+
+3) ZƏNGLƏR
+- Hamısı / Gələn / Gedən / Qaçırılan filtrləri.
+- Sağ yuxarı təqvim düyməsi.
+- İstənilən tarix seçilərək köhnə zənglərə baxış.
+- Kontakt/nömrə, saat, müddət və zəng növü.
+
+4) ZONALAR
+- Aktiv/qeyri-aktiv zonalar switch ilə.
+- + düyməsindən yeni zona.
+- Zona kartına basanda detal: koordinat, radius, giriş/çıxış bildirişləri və silmək.
+
+5) BİLDİRİŞLƏR / PARAMETRLƏR
+- Daha çox bölməsində iki premium tab.
+- Bildiriş tarixçəsi server alert-lərindən.
+- Parametrlərdə hesab, bildiriş, təhlükəsizlik, dil, dark mode və çıxış.
+
+6) TƏHLÜKƏSİZLİK
+- APK açılışında 4 rəqəmli PIN.
+- PIN: 5566.
+- Böyük 82dp düymələr.
+- Tətbiq arxa plana keçib yenidən açıldıqda kilid yenidən aktivləşir.
+
+7) REALTIME
+- Firebase Cloud Messaging aktiv.
+- Serverdə qeydiyyatdan keçən FCM token.
+- Zəng və zona push bildirişləri mövcud server sistemi ilə uyğun.
